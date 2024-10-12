@@ -12,8 +12,8 @@ Qiita Blog [here](https://qiita.com/ohigashi-tky)
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=laravel,vue,next,nodejs" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=laravel,vue,next" /> <br /><br />
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,githubactions,vscode,aws,nginx,linux,figma" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,githubactions,aws,nginx,linux,vscode,figma" /> <br /><br />
