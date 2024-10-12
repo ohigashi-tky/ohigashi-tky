@@ -1,8 +1,8 @@
-# About Me
+# Hello!
 
 I am Takuya Ohigashi.
 
-Qiita Blog [here](https://qiita.com/ohigashi-tky)
+ [Qiita Blog](https://qiita.com/ohigashi-tky)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
 
@@ -16,4 +16,4 @@ Qiita Blog [here](https://qiita.com/ohigashi-tky)
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,githubactions,aws,nginx,linux,vscode,figma" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,githubactions,aws,nginx,linux,vscode" /> <br /><br />
