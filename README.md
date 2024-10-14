@@ -14,7 +14,7 @@ This account is for hobby use only.
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=laravel,vue,next" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=laravel,vue,react" /> <br /><br />
 
 ## DB and Dev Tools etc
 
