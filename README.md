@@ -18,4 +18,4 @@ This account is for hobby use only.
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,githubactions,aws,nginx,linux,vscode,unity" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,githubactions,aws,linux,vscode,unity" /> <br /><br />
