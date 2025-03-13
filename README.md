@@ -10,11 +10,11 @@ This account is for hobby use only.
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,php,swift,js,ts" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=php,swift,js" /> <br /><br />
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=laravel,vue,react" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=laravel,vue" /> <br /><br />
 
 ## DB and Dev Tools etc
 
